@@ -4,7 +4,7 @@ spec:
   - name: web
     git:
       branch: main
-      repo_clone_url: https://github.com/pixelfed/pixelfed.git
+      repo_clone_url: https://github.com/OliverMensahDev/pixelfed.git
     envs:
     - key: DB_FOO_1
       value: "DB-password-testvalue"
