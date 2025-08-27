@@ -42,7 +42,7 @@ Documentation for Pixelfed can be found on the [Pixelfed documentation website](
 Pixelfed app for [YunoHost](https://yunohost.org 'YunoHost'). See [the package source code](https://github.com/YunoHost-Apps/pixelfed_ynh 'pixelfed_ynh repository on GitHub')
 
 ## Run on DigitalOcean 
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/pixelfed/pixelfed/tree/staging)
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/OliverMensahDev/pixelfed/tree/dev)
 
 
 ## License
