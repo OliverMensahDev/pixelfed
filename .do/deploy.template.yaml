@@ -16,5 +16,6 @@ spec:
     - key: DATABASE_URL
       scope: RUN_TIME
       value: ${example-db.DATABASE_URL}
+    dockerfile_path: Dockerfile
   databases:
   - name: example-db
