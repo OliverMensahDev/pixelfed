@@ -3,7 +3,7 @@ spec:
   services:
   - name: web
     git:
-      branch: main
+      branch: dev
       repo_clone_url: https://github.com/OliverMensahDev/pixelfed.git
     envs:
     - key: DB_FOO_1
